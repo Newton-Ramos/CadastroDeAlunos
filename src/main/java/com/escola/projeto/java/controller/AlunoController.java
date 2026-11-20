@@ -5,5 +5,5 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/aluno")
-public class AlunoController { 
+public class AlunoController {
 }
